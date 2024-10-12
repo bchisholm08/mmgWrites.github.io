@@ -8,7 +8,7 @@ Author Margaret Morris-Gronlund
   </a>
 </p>
 
-Hi! I'm Maggie, a writer and coffee shop owner Here's a collection of my works, projects, and articles. 
+Hi! I'm Maggie, a writer and coffee shop owner. Here's a collection of my works, projects, and articles. 
 
 ## About Me
 Mom, co-owner of Sister Sludge in Minneapolis. 
