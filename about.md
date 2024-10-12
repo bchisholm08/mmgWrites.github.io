@@ -8,7 +8,7 @@
   <p>Hi, I'm Maggie, the author of <strong>Santana Rose</strong>. I love exploring themes related to ...................</p>
 </div>
 
-In addition to writing, I enjoy [personal interests]. I'm passionate about storytelling, creativity, and engaging with readers like you!
+In addition to writing, I enjoy.....
 
 <svg height="100" width="100">
   <circle cx="50" cy="50" r="40" stroke="white" stroke-width="2" fill="#3498db" />
