@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1 align="center">Hello, I'm Maggie! 👋</h1>
 
 <p align="center">
@@ -6,7 +7,7 @@
   </a>
 </p>
 
-Hi! I'm Maggie, a writer and coffee shop owner. Here's a collection of my works, projects, and articles. 
+Hi! I'm Maggie, a writer and coffee shop owner. Here's a collection of my work. 
 
 ## What I'm Working on Now
 - [Santana Rose](link-to-story) - Description of book. 
