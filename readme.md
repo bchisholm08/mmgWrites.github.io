@@ -23,13 +23,15 @@ Click below to find something interesting!
 </div>
 
 ---
+
 ###
-> option to put a quote here
+
+> option to put a quote or text snip here
 
 ### Contact Me
   * Email: [email](mailto:email@gmail.com)
 
 
 
+<sup><sub>Copyright © 2024 - Brady M. Chisholm - All Rights Reserved</sub></sup>
 
-Copyright © 2024 - BMC - All Rights Reserved
