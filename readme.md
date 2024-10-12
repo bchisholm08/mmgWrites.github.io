@@ -1,6 +1,4 @@
-<p align="center">
-Website of Author Margaret Morris-Gronlund
-</p>
+<h1 align="center">Hello, I'm Maggie! 👋</h1>
 
 <p align="center">
   <a href="(https://github.com/bchisholm08/mmgWrites.github.io/blob/main/)">
@@ -24,17 +22,13 @@ Click below to find something interesting!
 </div>
 
 ---
+###
+> option to put a quote here
 
-## Contact Me
-Reach out to me [email](mailto:your-email@example.com).
-
-
-
-
+### Contact Me
+  * Email: [email](mailto:email@gmail.com)
 
 
 
 
-
-
-Copyright © 2024 - October 12 2024 Brady M. Chisholm – All Rights Reserved
+Copyright © 2024 - BMC - All Rights Reserved
