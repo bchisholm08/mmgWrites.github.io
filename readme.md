@@ -17,7 +17,7 @@ Hi! I'm Maggie, a writer and coffee shop owner. Here's a collection of my work.
 ## Website Links
 Click below to find something interesting!
 <div style="text-align: center;">
-  <a href="./about.md" style="font-size: 18px; margin-right: 20px; text-decoration: none; color: #3498db;">Read More About Me</a>
+  <a href="/about.md" style="font-size: 18px; margin-right: 20px; text-decoration: none; color: #3498db;">Read More About Me</a>
   
   <a href="./chapters.md" style="font-size: 18px; margin-right: 20px; text-decoration: none; color: #3498db;">Book Tease</a>
 </div>
