@@ -12,5 +12,5 @@ Things to Add / Fix on the Website
   - Purpose statement?
   - Currently working on
   - a favorite quote perhaps?
-- BUGS
+- BUGS & FIXME
   - 'mmgWrites.github.io' hyperlink header at the top?      
