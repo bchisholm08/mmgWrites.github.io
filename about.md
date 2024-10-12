@@ -1,8 +1,11 @@
 # About Me
-
+<p align="center">
+  <a href="(https://github.com/bchisholm08/mmgWrites.github.io/blob/main/)">
+    <img src="images/bookcover_rd_trim.PNG" alt="bookcover_draft" width="300" height="300">
+  </a>
+</p>
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="images/mmgHeadShot.jpg" alt="mmg_headshot" style="border-radius: 5%; width: 150px; margin-right: 50px;"/>
-  <p>Hi, I'm Maggie, the author of <strong>[Santana Rose]</strong>. I love exploring themes related to [key themes or genres of the book].</p>
+  <p>Hi, I'm Maggie, the author of <strong>Santana Rose</strong>. I love exploring themes related to ...................</p>
 </div>
 
 In addition to writing, I enjoy [personal interests]. I'm passionate about storytelling, creativity, and engaging with readers like you!
