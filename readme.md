@@ -1,10 +1,10 @@
 <p align="center">
-Author Margaret Morris-Gronlund
+Website of Author Margaret Morris-Gronlund
 </p>
 
 <p align="center">
   <a href="(https://github.com/bchisholm08/mmgWrites.github.io/blob/main/)">
-    <img src="images/mmgHeadShot.jpg" alt="mmgHeadshot" width="180" height="300">
+    <img src="images/bookcover_rd_trim.PNG" alt="bookCover_draft" width="300" height="300">
   </a>
 </p>
 
