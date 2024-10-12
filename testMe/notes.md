@@ -1,1 +1,16 @@
-Things to Add / Fix on the Website 
+Things to Add / Fix on the Website
+- Color
+  - Borders
+  - Headings
+  - Font sizes / contrast
+- Links
+  - Link to about me page
+  - Link tease chapter? Could be a fancy page
+- Text
+  - About the book
+  - About Maggie
+  - Purpose statement?
+  - Currently working on
+  - a favorite quote perhaps?
+- BUGS
+  - 'mmgWrites.github.io' hyperlink header at the top?      
